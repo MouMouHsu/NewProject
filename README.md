@@ -1,1 +1,2 @@
 # NewProject
+How to contribute
